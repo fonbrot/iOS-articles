@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://www.avanderlee.com/swift/ranges-explained/
+
 https://www.uber.com/en-LB/blog/measuring-performance-for-ios-apps-at-uber-scale/
 
 https://betterprogramming.pub/improve-xcode-compile-and-run-time-8b8f812c17f8
