@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://www.roger.ml/p/jenkins-ios-setup
+
 https://swiftwithmajid.com/2023/05/03/the-power-of-overlays-in-swiftui/
 
 https://www.avanderlee.com/swift/ranges-explained/
