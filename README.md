@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://holyswift.app/how-to-create-an-circular-text-in-swiftui/
+
 https://frankrausch.com/ios-navigation
 
 https://www.roger.ml/p/jenkins-ios-setup
