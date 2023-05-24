@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://useyourloaf.com/blog/swiftui-importing-and-exporting-files/
+
 https://holyswift.app/how-to-create-an-circular-text-in-swiftui/
 
 https://frankrausch.com/ios-navigation
