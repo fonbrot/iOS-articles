@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://shchukin-alex.medium.com/gcd-primitives-in-depth-serial-queue-c255cf98cf55
+
 https://blog.makwanbk.com/meet-an-upcoming-swift-access-modifier-package
 
 https://useyourloaf.com/blog/swiftui-importing-and-exporting-files/
