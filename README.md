@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://christianselig.com/2023/05/instant-pan-gesture-interactions/
+
 https://shchukin-alex.medium.com/gcd-primitives-in-depth-serial-queue-c255cf98cf55
 
 https://blog.makwanbk.com/meet-an-upcoming-swift-access-modifier-package
