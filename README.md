@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://betterprogramming.pub/powering-accessibility-on-ios-with-swiftui-and-machine-learning-292e2e71c40d
+
 https://christianselig.com/2023/05/instant-pan-gesture-interactions/
 
 https://shchukin-alex.medium.com/gcd-primitives-in-depth-serial-queue-c255cf98cf55
