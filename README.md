@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://ohmyswift.com/blog/2023/05/26/how-to-instantly-track-a-variable-s-value-changes-with-xcode-watchpoints/
+
 https://nilcoalescing.com/blog/AnchoredPositionInSwiftUI/
 
 https://www.swiftjectivec.com/ios-17-notable-uikit-additions/
