@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://www.donnywals.com/whats-the-difference-between-binding-and-bindable/
+
 https://ohmyswift.com/blog/2023/05/26/how-to-instantly-track-a-variable-s-value-changes-with-xcode-watchpoints/
 
 https://nilcoalescing.com/blog/AnchoredPositionInSwiftUI/
