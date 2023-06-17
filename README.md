@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://betterprogramming.pub/an-emoji-selection-element-aka-emojipicker-for-ios-like-in-macos-e2fa022b80af
+
 https://swiftwithmajid.com/2023/06/06/what-is-new-in-swiftui-after-wwdc23/
 
 https://www.donnywals.com/whats-the-difference-between-binding-and-bindable/
