@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://swiftsenpai.com/development/using-uicontentunavailableconfiguration/
+
 https://betterprogramming.pub/an-emoji-selection-element-aka-emojipicker-for-ios-like-in-macos-e2fa022b80af
 
 https://swiftwithmajid.com/2023/06/06/what-is-new-in-swiftui-after-wwdc23/
