@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-haptic-effects-using-sensory-feedback
+
 https://swiftsenpai.com/development/using-uicontentunavailableconfiguration/
 
 https://betterprogramming.pub/an-emoji-selection-element-aka-emojipicker-for-ios-like-in-macos-e2fa022b80af
