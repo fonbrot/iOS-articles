@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://itnext.io/deep-dive-into-the-new-features-of-scrollview-in-swiftui-5-440b9f0e0e09
+
 https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-haptic-effects-using-sensory-feedback
 
 https://swiftsenpai.com/development/using-uicontentunavailableconfiguration/
