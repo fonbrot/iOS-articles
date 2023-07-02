@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://dev.shoppingukapp.com/2023/05/01/embracing-cloudkit-for-data-sharing-contents.html
+
 https://onmyway133.com/posts/wwdc23-swiftui-qanda/
 
 https://itnext.io/deep-dive-into-the-new-features-of-scrollview-in-swiftui-5-440b9f0e0e09
