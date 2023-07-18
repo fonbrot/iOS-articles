@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://troz.net/post/2023/swiftui-data-flow-2023/
+
 https://getonthestore.com/drop-support-for-an-older-version-of-ios/
 
 https://dev.shoppingukapp.com/2023/05/01/embracing-cloudkit-for-data-sharing-contents.html
