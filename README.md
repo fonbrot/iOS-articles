@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://holyswift.app/push-notifications-options-in-swiftui/
+
 https://tanaschita.com/20230717-flutter-for-ios-developers/
 
 https://troz.net/post/2023/swiftui-data-flow-2023/
