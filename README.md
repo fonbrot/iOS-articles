@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://bendodson.com/weblog/2023/07/26/tipkit-tutorial/
+
 https://holyswift.app/push-notifications-options-in-swiftui/
 
 https://tanaschita.com/20230717-flutter-for-ios-developers/
