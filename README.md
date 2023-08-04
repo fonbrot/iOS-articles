@@ -2,6 +2,8 @@
 
 ## 2023
 
+https://christianselig.com/2023/08/smartly-open-xcode/
+
 https://bendodson.com/weblog/2023/07/26/tipkit-tutorial/
 
 https://holyswift.app/push-notifications-options-in-swiftui/
