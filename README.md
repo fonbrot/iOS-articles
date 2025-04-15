@@ -1,5 +1,9 @@
 # iOS-articles
 
+## 2025
+
+https://newsletter.pragmaticengineer.com/p/tech-hiring-inflection-point
+
 ## 2023
 
 https://christianselig.com/2023/08/smartly-open-xcode/
