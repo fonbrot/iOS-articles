@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://swiftwithmajid.com/2025/08/19/building-ai-features-using-foundation-models/
+
 https://newsletter.pragmaticengineer.com/p/tech-hiring-inflection-point
 
 ## 2023
