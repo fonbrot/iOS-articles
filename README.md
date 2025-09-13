@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://security.apple.com/blog/memory-integrity-enforcement/
+
 https://www.donnywals.com/what-is-approachable-concurrency-in-xcode-26/
 
 https://swiftwithmajid.com/2025/08/19/building-ai-features-using-foundation-models/
