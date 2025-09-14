@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://www.massicotte.org/actors
+
 https://security.apple.com/blog/memory-integrity-enforcement/
 
 https://www.donnywals.com/what-is-approachable-concurrency-in-xcode-26/
