@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://useyourloaf.com/blog/swift-default-value-in-string-interpolations/
+
 https://www.massicotte.org/actors
 
 https://security.apple.com/blog/memory-integrity-enforcement/
