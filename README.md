@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://www.donnywals.com/should-you-opt-in-to-swift-6-2s-main-actor-isolation/
+
 https://useyourloaf.com/blog/swift-default-value-in-string-interpolations/
 
 https://www.massicotte.org/actors
