@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://medium.com/@victorbaro/sdf-in-metal-adding-the-liquid-to-the-glass-69abd57e2151
+
 https://www.donnywals.com/should-you-opt-in-to-swift-6-2s-main-actor-isolation/
 
 https://useyourloaf.com/blog/swift-default-value-in-string-interpolations/
