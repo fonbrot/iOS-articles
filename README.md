@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://ldomaradzki.com/blog/stop-wasting-context-build-output
+
 https://www.apple.com/newsroom/2025/09/apples-foundation-models-framework-unlocks-new-intelligent-app-experiences/
 
 https://medium.com/@victorbaro/sdf-in-metal-adding-the-liquid-to-the-glass-69abd57e2151
