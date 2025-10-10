@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://theswiftdev.com/2025/all-about-swift-package-manager-traits/
+
 https://ldomaradzki.com/blog/stop-wasting-context-build-output
 
 https://www.apple.com/newsroom/2025/09/apples-foundation-models-framework-unlocks-new-intelligent-app-experiences/
