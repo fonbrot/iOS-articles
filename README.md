@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://brightdigit.com/tutorials/syntaxkit-swift-code-generation/
+
 https://theswiftdev.com/2025/all-about-swift-package-manager-traits/
 
 https://ldomaradzki.com/blog/stop-wasting-context-build-output
