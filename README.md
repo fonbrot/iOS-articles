@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://www.createwithswift.com/understanding-live-activities-visual-micro-storytelling/
+
 https://brightdigit.com/tutorials/syntaxkit-swift-code-generation/
 
 https://theswiftdev.com/2025/all-about-swift-package-manager-traits/
