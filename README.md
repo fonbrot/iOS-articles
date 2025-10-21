@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://developer.apple.com/documentation/technotes/tn3193-managing-the-on-device-foundation-model-s-context-window
+
 https://www.createwithswift.com/understanding-live-activities-visual-micro-storytelling/
 
 https://brightdigit.com/tutorials/syntaxkit-swift-code-generation/
