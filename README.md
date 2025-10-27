@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://tanaschita.com/swiftui-glass-auto-apply/
+
 https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/
 
 https://developer.apple.com/documentation/technotes/tn3193-managing-the-on-device-foundation-model-s-context-window
