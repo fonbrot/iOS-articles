@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://antongubarenko.substack.com/p/ios-26-foundation-model-framework-f6d
+
 https://tanaschita.com/swiftui-glass-auto-apply/
 
 https://livsycode.com/swiftui/an-apple-intelligence-style-glow-effect-in-swiftui/
