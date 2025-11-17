@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://www.createwithswift.com/image-caching-in-swiftui/
+
 https://antongubarenko.substack.com/p/ios-26-foundation-model-framework-f6d
 
 https://tanaschita.com/swiftui-glass-auto-apply/
