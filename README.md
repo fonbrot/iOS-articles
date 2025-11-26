@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://danielsaidi.com/blog/2025/10/11/swiftleeds-questions-and-answers
+
 https://www.createwithswift.com/image-caching-in-swiftui/
 
 https://antongubarenko.substack.com/p/ios-26-foundation-model-framework-f6d
