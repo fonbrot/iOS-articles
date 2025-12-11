@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://useyourloaf.com/blog/iphone-17-screen-sizes/
+
 https://danielsaidi.com/blog/2025/10/11/swiftleeds-questions-and-answers
 
 https://www.createwithswift.com/image-caching-in-swiftui/
