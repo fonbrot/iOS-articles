@@ -2,6 +2,8 @@
 
 ## 2025
 
+https://kunat.dev/notes/spm-package-mirroring/
+
 https://useyourloaf.com/blog/iphone-17-screen-sizes/
 
 https://danielsaidi.com/blog/2025/10/11/swiftleeds-questions-and-answers
