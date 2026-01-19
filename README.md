@@ -6,6 +6,8 @@ https://kunat.dev/notes/spm-package-mirroring/
 
 https://tonsky.me/blog/tahoe-icons/
 
+https://drobinin.com/posts/the-whole-app-is-a-blob/
+
 ## 2025
 
 https://useyourloaf.com/blog/iphone-17-screen-sizes/
