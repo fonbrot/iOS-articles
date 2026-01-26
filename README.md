@@ -10,6 +10,8 @@ https://drobinin.com/posts/the-whole-app-is-a-blob/
 
 https://tanaschita.com/swift-user-defaults-storing-structs/
 
+https://www.massicotte.org/blog/package-swift/
+
 ## 2025
 
 https://useyourloaf.com/blog/iphone-17-screen-sizes/
