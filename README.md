@@ -14,6 +14,8 @@ https://www.massicotte.org/blog/package-swift/
 
 https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/
 
+https://ryanashcraft.com/ios-26-tab-bar-beef/
+
 ## 2025
 
 https://useyourloaf.com/blog/iphone-17-screen-sizes/
